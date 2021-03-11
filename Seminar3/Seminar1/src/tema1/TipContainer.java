@@ -8,7 +8,6 @@ public enum TipContainer {
     Jumbo_100mc("Jumbo_100mc");
 
     String tip;
-
     TipContainer(String tip) {
         this.tip = tip;
     }

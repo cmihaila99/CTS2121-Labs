@@ -41,8 +41,8 @@ public class Main {
         listaPortContainere.add(portContainer3);
         listaPortContainere.add(portContainer4);
 
-        FileWriter iesireFisier=null;
-        BufferedWriter scriere=null;
+        FileWriter iesireFisier = null;
+        BufferedWriter scriere = null;
 
         System.out.println("Lista de PortContainere:");
 
